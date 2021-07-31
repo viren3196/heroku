@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sms-maven" />
+        <module name="cryptic-coast-42409" />
       </profile>
     </annotationProcessing>
   </component>
