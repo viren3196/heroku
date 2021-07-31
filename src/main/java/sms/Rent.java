@@ -17,6 +17,7 @@ import java.util.Locale;
 
 @Component
 public class Rent {
+    // The below credentials are expired
     public static final String ACCOUNT_SID = "ACd5d3f27d2b6a893f1845b0f90d60f2ec";
     public static final String AUTH_TOKEN = "4f154c805eb1b4198c3980926ba8e563";
 
